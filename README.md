@@ -80,8 +80,8 @@ pnpm -v    # e.g. 8.15.0+
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd Phase-4-SWE-WEB
+git clone https://github.com/Alomar04/Phase-4-SWE-WEB-ENG.git
+cd Phase-4-SWE-WEB-ENG
 ```
 
 ### 2. Install Dependencies
