@@ -134,9 +134,7 @@ Phase-4-SWE-WEB/
 ├── vite.config.js              # Vite config (React, Tailwind, JSX-in-JS plugin, @ alias)
 ├── postcss.config.mjs          # PostCSS (empty — Tailwind v4 handles it)
 ├── ATTRIBUTIONS.md             # Third-party credits
-├── PROJECT_STRUCTURE.md        # Detailed folder/file documentation
-├── guidelines/
-│   └── Guidelines.md           # AI/design guidelines template
+├── PROJECT_STRUCTURE.md        # Detailed folder/file documentation 
 ├── src/
 │   ├── main.js                 # React DOM entry — mounts <App />
 │   ├── imports/
