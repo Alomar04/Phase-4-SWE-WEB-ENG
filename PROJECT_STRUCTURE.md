@@ -18,19 +18,6 @@ This document provides a detailed, annotated breakdown of every file and folder 
 
 ---
 
-## `guidelines/`
-
-```
-guidelines/
-└── Guidelines.md
-```
-
-| File | Purpose |
-| --- | --- |
-| `Guidelines.md` | Template for AI/design system guidelines. Contains placeholder sections for general rules, design system tokens, and component usage patterns. |
-
----
-
 ## `src/`
 
 The main source directory containing all application code, styles, and documentation.
